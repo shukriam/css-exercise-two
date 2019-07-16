@@ -1,0 +1,80 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 200%
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 150%
+}
+
+p {
+  line-height: 150%
+
+}
+
+figcaption {
+  font-style: italic;
+}
+
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {color: orange;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
